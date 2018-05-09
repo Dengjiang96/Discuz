@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <suite name="Forum">
+    <parameter name="Browser" value="chrome">
+        <test name="product">
+            <classes>
+<!--                <class name="login"></class>
+                <class name="publish"></class>-->
+            </classes>
+        </test>
+    </parameter>
+</suite>
